@@ -1,10 +1,23 @@
-slack-audio
+SLACK-AUDIO
 ===========
 
 SlackBuilds for audio production.
 
 This repo is in no way connected with SlackBuilds.org or Slackware.com. Many
 thanks to those people for this great system, though.
+
+Roadmap
+-------
+* alsa-firmware
+* alsa-tools
+* fxload
+* jack-audio-connection-kit
+* lame
+* libsndfile
+* mutagen
+* pd
+* qjackctl
+* udev-tascam-usx2y
 
 
 Andrew Antle
