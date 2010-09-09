@@ -1,0 +1,9 @@
+bristol (Synthesizer Emulator)
+
+Bristol is an emulation package for a number of different
+classic synthesisers including additive and subtractive 
+and a few organs. The application consists of the engine,
+which is called bristol, and its own GUI library called
+brighton that represents all the emulations.
+
+Homepage: http://bristol.sourceforge.net/
