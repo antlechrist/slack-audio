@@ -1,0 +1,13 @@
+alsa-tools-usx2y (Tools for Tascam usx2y devices)
+
+This package contains us428control and usx2yloader for Tascam
+US-428, US-224, and US-122 USB devices. This does not install
+all of the tools contained in the source tarball.
+
+Copy 55-tascam-usx2y.rules.def to 55-tascam-usx2y.rules and
+edit according to which device you have. (The default is US-428.)
+
+You probably want the alsa-firmware package as well.
+
+Homepage: http://www.alsa-project.org/
+More info: http://alsa.opensrc.org/index.php/Usb-usx2y

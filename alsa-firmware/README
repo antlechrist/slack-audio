@@ -1,0 +1,7 @@
+alsa-firmware (Firmware for cards that require it)
+
+ALSA firmware for cards that require it.
+
+You probably want the alsa-tools package as well.
+
+Homepage: http://www.alsa-project.org/

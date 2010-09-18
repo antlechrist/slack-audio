@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                |-----handy-ruler------------------------------------------------------|
+alsa-tools-usx2y: alsa-tools-usx2y (Tools for Tascam usx2y devices)
+alsa-tools-usx2y:
+alsa-tools-usx2y: This package contains us428control and usx2yloader for Tascam
+alsa-tools-usx2y: US-428, US-224, and US-122 USB devices. This does not install
+alsa-tools-usx2y: all of the tools contained in the source tarball.
+alsa-tools-usx2y:
+alsa-tools-usx2y: Homepage: http://www.alsa-project.org/
+alsa-tools-usx2y: More info: http://alsa.opensrc.org/index.php/Usb-usx2y
+alsa-tools-usx2y:
+alsa-tools-usx2y:
+alsa-tools-usx2y:

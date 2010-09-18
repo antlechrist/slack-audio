@@ -8,16 +8,15 @@ thanks to those people for this great system, though.
 
 Roadmap
 -------
-* alsa-firmware
-* alsa-tools
-* fxload
-* jack-audio-connection-kit
-* lame
-* libsndfile
-* mutagen
-* pd
-* qjackctl
-* udev-tascam-usx2y
+* alsa-firmware [AMA]
+* alsa-tools-usx2y [AMA]
+* fxload [SBo]
+* jack-audio-connection-kit [SBo]
+* lame [SBo]
+* libsndfile 1.0.20 [SBo]; 1.0.21 [AMA]
+* mutagen [SBo]
+* pd 0.42.4 [SBo]; 0.42.5 [AMA]
+* qjackctl [SBo]
 
 
 Andrew Antle
